@@ -1,4 +1,5 @@
 367. Valid Perfect Square
+
 Easy
 
 Given a positive integer num, return true if num is a perfect square or false otherwise.
