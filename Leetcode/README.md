@@ -11,3 +11,8 @@
 
 ### Arrays and Srings Problems
 [0006-Find Closest Number to Zero](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0006-Find%20Closest%20Number%20to%20Zero)
+
+[0007-Merge Strings Alternately](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0007-Merge%20Strings%20Alternately)
+
+
+Merge Strings Alternately
