@@ -20,3 +20,5 @@
 
 [0010-Best Time to Buy and Sell Stock](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0010-Best%20Time%20to%20Buy%20and%20Sell%20Stock)
 
+[0011-Best Time to Buy and Sell Stock](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0011-Longest%20Common%20Prefix)
+
