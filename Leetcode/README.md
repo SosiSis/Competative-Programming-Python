@@ -24,3 +24,6 @@
 
 [0012-Summary Ranges](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0012-Summary%20Ranges)
 
+[0013-Remove Duplicates from Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0013-Remove%20Duplicates%20from%20Sorted%20Array)
+
+Remove Duplicates from Sorted Array
