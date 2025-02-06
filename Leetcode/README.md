@@ -29,5 +29,7 @@
 
 [0014-Remove Element](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0014-Remove%20Element)
 
+[0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
 
+Merge Sorted Array
 
