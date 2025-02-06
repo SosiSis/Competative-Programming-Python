@@ -26,3 +26,8 @@
 
 [0013-Remove Duplicates from Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0013-Remove%20Duplicates%20from%20Sorted%20Array)
 
+
+[0014-Remove Element](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0014-Remove%20Element)
+
+
+
