@@ -31,5 +31,9 @@
 
 [0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
 
+### Hashmaps & Sets Problems
+
+[0016-Jewels and Stones](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Jewels%20and%20Stones)
 
 
+Jewels and Stones
