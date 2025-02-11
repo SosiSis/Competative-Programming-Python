@@ -33,6 +33,7 @@
 
 ### Hashmaps & Sets Problems
 
-[0016-Jewels and Stones](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Jewels%20and%20Stones)
+[0016-Jewels and Stones](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0016-Jewels%20and%20Stones)
 
+[0017-Contains Duplicate](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0017-Contains20Duplicate)
 
