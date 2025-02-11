@@ -37,3 +37,6 @@
 
 [0017-Contains Duplicate](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0017-Contains20Duplicate)
 
+[0018-Ransom Note](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0018-Ransom%20Note)
+
+Ransom Note
