@@ -39,3 +39,7 @@
 
 [0018-Ransom Note](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0018-Ransom%20Note)
 
+[0019-Valid Anagram](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0019-Valid%20Anagram)
+
+
+
