@@ -41,5 +41,6 @@
 
 [0019-Valid Anagram](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0019-Valid%20Anagram)
 
+[0019-Two Sum](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0020-Two%20Sum)
 
 
