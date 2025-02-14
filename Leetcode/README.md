@@ -31,6 +31,10 @@
 
 [0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
 
+[0022-Find the Winner of the Circular Game](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0022-Find%20the%20Winner%20of%20the%20Circular%20Game)
+
+
+
 ### Hashmaps & Sets Problems
 
 [0016-Jewels and Stones](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0016-Jewels%20and%20Stones)
