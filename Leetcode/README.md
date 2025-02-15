@@ -35,6 +35,10 @@
 
 [0023-Move Zeroes](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0023-Move%20Zeroes)
 
+[0024-Reverse String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0024-Reverse%20String)
+
+
+
 
 Move Zeroes
 ### Hashmaps & Sets Problems
