@@ -57,4 +57,8 @@ Move Zeroes
 
 [0025-Maximum Number of Balloons](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0025-Maximum%20Number%20of%20Balloons)
 
+[0026-Valid Sudoku](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0026-Valid%20Sudoku)
+
+
+
 
