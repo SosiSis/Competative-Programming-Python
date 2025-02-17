@@ -38,3 +38,5 @@ class Solution(object):
                     elif item != '.':
                         s.add(item)
         return True
+
+#the actual time complexity is 𝑂(1) because the Sudoku grid size is fixed at 9×9. If the grid were of variable size 𝑛×𝑛 , then the complexity would be 𝑂(𝑛2)        
