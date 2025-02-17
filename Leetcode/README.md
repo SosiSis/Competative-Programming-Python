@@ -54,3 +54,7 @@ Move Zeroes
 [0020-Two Sum](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0020-Two%20Sum)
 
 [0021-Group Anagrams](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0021-Group%20Anagrams)
+
+[0025-Maximum Number of Balloons](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0025-Maximum%20Number%20of%20Balloons)
+
+
