@@ -38,9 +38,6 @@
 [0024-Reverse String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0024-Reverse%20String)
 
 
-
-
-Move Zeroes
 ### Hashmaps & Sets Problems
 
 [0016-Jewels and Stones](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0016-Jewels%20and%20Stones)
