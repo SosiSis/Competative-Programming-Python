@@ -60,6 +60,12 @@
 [0026-Valid Sudoku](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0026-Valid%20Sudoku)
 
 
+### Sorting
+
+[0028-Sort the People](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0028-Sort%20the%20People)
+
+
+
 ### Two pointers
 
 [0027-Squares of a Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0027-Squares%20of%20a%20Sorted%20Array)
