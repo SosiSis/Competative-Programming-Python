@@ -66,6 +66,8 @@
 
 [0029-Relative Sort Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0029-Relative%20Sort%20Array)
 
+[0030-Create Sorted Array through Instructions](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0030-Create%20Sorted%20Array%20through%20Instructions)
+
 
 
 ### Two pointers
