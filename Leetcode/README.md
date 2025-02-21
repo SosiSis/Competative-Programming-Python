@@ -68,6 +68,7 @@
 
 [0030-Create Sorted Array through Instructions](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0030-Create%20Sorted%20Array%20through%20Instructions)
 
+[0031-Sort List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0031-Sort%20List)
 
 
 ### Two pointers
