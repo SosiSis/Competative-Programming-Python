@@ -64,6 +64,8 @@
 
 [0028-Sort the People](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0028-Sort%20the%20People)
 
+[0029-Relative Sort Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0029-Relative%20Sort%20Array)
+
 
 
 ### Two pointers
