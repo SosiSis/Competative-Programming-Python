@@ -26,3 +26,6 @@ class Solution(object):
                     return result
         return result
             
+
+# Because buckets[i] holds numbers with a frequency of i, and we are iterating from the largest i to the smallest i,
+# we are guaranteed to encounter the numbers with the highest frequencies first.
