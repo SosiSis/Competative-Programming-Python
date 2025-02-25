@@ -72,6 +72,10 @@
 
 [0032-Sort an Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0032-Sort%20an%20Array)
 
+[0033-Top K Frequent Elements](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0033-Top%20K%20Frequent%20Elements)
+
+### Numerals
+
 
 ### Two pointers
 
