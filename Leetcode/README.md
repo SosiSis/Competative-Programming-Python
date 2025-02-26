@@ -74,6 +74,9 @@
 
 [0033-Top K Frequent Elements](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0033-Top%20K%20Frequent%20Elements)
 
+[0034-Missing Number](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0034-Missing%20Number)
+
+
 ### Numerals
 
 
