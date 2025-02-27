@@ -76,6 +76,8 @@
 
 [0034-Missing Number](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0034-Missing%20Number)
 
+[0035-Find All Numbers Disappeared in an Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0035-Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
+
 
 ### Numerals
 
