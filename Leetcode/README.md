@@ -78,6 +78,7 @@
 
 [0035-Find All Numbers Disappeared in an Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0035-Find%20All%20Numbers%20Disappeared%20in%20an%20Array)
 
+[0036-Set Mismatch](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0036-Set%20Mismatch)
 
 ### Numerals
 
