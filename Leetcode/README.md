@@ -80,6 +80,10 @@
 
 [0036-Set Mismatch](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0036-Set%20Mismatch)
 
+[0037-Find the Duplicate Number](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0037-Find%20the%20Duplicate%20Number)
+
+
+
 ### Numerals
 
 
