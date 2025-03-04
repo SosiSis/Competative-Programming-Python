@@ -86,6 +86,8 @@
 
 ### Numerals
 
+[0038-Find Greatest Common Divisor of Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0038-Find%20Greatest%20Common%20Divisor%20of%20Array)
+
 
 ### Two pointers
 
