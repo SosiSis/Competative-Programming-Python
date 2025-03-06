@@ -88,6 +88,12 @@
 
 [0038-Find Greatest Common Divisor of Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0038-Find%20Greatest%20Common%20Divisor%20of%20Array)
 
+[0039-Check If Array Pairs Are Divisible by k](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0039-Check%20If%20Array%20Pairs%20Are%20Divisible%20byk%20)
+
+[0040-Count Primes](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0040-Count%20Primes)
+
+
+
 
 ### Two pointers
 
