@@ -92,6 +92,11 @@
 
 [0040-Count Primes](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0040-Count%20Primes)
 
+[0041-Find Greatest Common Divisor of Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0041-Find%20Greatest%20Common%20Divisor%20of%20Array)
+
+[0040-Count Primes](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0040-Count%20Primes)
+
+
 
 
 
