@@ -59,6 +59,7 @@
 
 [0026-Valid Sudoku](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0026-Valid%20Sudoku)
 
+[0044-Divide Players Into Teams of Equal Skill](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0044-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)
 
 ### Sorting
 
@@ -105,7 +106,5 @@
 [0027-Squares of a Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0027-Squares%20of%20a%20Sorted%20Array)
 
 [0043-Two Sum II - Input Array Is Sorted](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0043-Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
-
-[0044-Divide Players Into Teams of Equal Skill](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0044-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)
 
 
