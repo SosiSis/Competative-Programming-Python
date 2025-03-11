@@ -1,4 +1,5 @@
-from typing import Counter
+from collections import Counter
+from typing import  List
 
 
 class Solution:
