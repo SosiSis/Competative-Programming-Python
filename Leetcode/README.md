@@ -107,4 +107,5 @@
 
 [0043-Two Sum II - Input Array Is Sorted](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0043-Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
 
+[0045-Boats to Save People](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0045-Boats%20to%20Save%20People)
 
