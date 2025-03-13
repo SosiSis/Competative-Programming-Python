@@ -111,3 +111,4 @@
 
 [0046-Container With Most Water](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0046-Container%20With%20Most%20Water)
 
+[0047-Sum of Square Numbers](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0047-Sum%20of%20Square%20Numbers)
