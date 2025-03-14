@@ -61,6 +61,11 @@
 
 [0044-Divide Players Into Teams of Equal Skill](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0044-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)
 
+[0044-Divide Players Into Teams of Equal Skill](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0044-Divide%20Players%20Into%20Teams%20of%20Equal%20Skill)
+
+[0048-Partition Labels](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0048-Partition%20Labels)
+
+
 ### Sorting
 
 [0028-Sort the People](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0028-Sort%20the%20People)
