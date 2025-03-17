@@ -6,7 +6,7 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        k = k % n  # Handle cases where k > n
+        k = k % n  
         if k == 0:
             return
         
