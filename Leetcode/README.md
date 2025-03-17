@@ -108,6 +108,8 @@
 
 ### Two pointers
 
+[0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
+
 [0027-Squares of a Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0027-Squares%20of%20a%20Sorted%20Array)
 
 [0043-Two Sum II - Input Array Is Sorted](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0043-Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)
@@ -117,3 +119,5 @@
 [0046-Container With Most Water](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0046-Container%20With%20Most%20Water)
 
 [0047-Sum of Square Numbers](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0047-Sum%20of%20Square%20Numbers)
+
+[0049-Rotate Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0049-Rotate%20Array)
