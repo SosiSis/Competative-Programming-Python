@@ -127,3 +127,5 @@
 
 [0050-Power of Four](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0050-Power%20of%20Four)
 
+[0051-Fibonacci Number](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0051-Fibonacci%20Number)
+
