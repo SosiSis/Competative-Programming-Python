@@ -121,3 +121,9 @@
 [0047-Sum of Square Numbers](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0047-Sum%20of%20Square%20Numbers)
 
 [0049-Rotate Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0049-Rotate%20Array)
+
+
+### Recursion
+
+[0050-Power of Four](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0050-Power%20of%20Four)
+
