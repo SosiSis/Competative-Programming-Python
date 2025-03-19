@@ -129,3 +129,4 @@
 
 [0051-Fibonacci Number](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0051-Fibonacci%20Number)
 
+[0051-Pascal's Triangle II](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0052-Pascal's%20Triangle%20II)
