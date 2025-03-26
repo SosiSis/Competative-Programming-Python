@@ -137,4 +137,6 @@
 
 [0054-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0054-Remove%20Duplicates%20from%20Sorted%20List)
 
+[0055-Reverse Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0055-Reverse%20Linked%20List)
 
+Reverse Linked List
