@@ -122,6 +122,9 @@
 
 [0049-Rotate Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0049-Rotate%20Array)
 
+[0057-3Sum](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0057-3Sum)
+
+
 
 ### Recursion
 
