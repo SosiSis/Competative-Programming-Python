@@ -139,4 +139,3 @@
 
 [0055-Reverse Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0055-Reverse%20Linked%20List)
 
-Reverse Linked List
