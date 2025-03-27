@@ -136,8 +136,6 @@
 
 [0053-Power of Three](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0053-Power%20of%20Three)
 
-[0056-Decode String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0056-Decode%20String)
-
 ### Linked List
 
 [0054-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0054-Remove%20Duplicates%20from%20Sorted%20List)
