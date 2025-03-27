@@ -28,3 +28,4 @@ class Solution:
                         j += 1
         
         return res
+print(3*"a")    
