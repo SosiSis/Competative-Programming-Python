@@ -65,6 +65,8 @@
 
 [0048-Partition Labels](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0048-Partition%20Labels)
 
+[0058-Optimal Partition of String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0058-Optimal%20Partition%20of%20String)
+
 
 ### Sorting
 
@@ -146,4 +148,3 @@
 
 ### Sliding window
 
-[0058-Optimal Partition of String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0058-Optimal%20Partition%20of%20String)
