@@ -148,3 +148,8 @@
 
 ### Sliding window
 
+[0059-Maximum Average Subarray I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0059-Maximum%20Average%20Subarray%20I)
+
+[0060-Find All Anagrams in a String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0060-Find%20All%20Anagrams%20in%20a%20String)
+
+
