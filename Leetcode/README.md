@@ -148,3 +148,5 @@
 
 ### Sliding window
 
+[0059-Maximum Average Subarray I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0059-Maximum%20Average%20Subarray%20I)
+
