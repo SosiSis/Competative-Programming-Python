@@ -154,3 +154,5 @@
 
 [0061-Longest Substring Without Repeating Characters](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0061-Longest%20Substring%20Without%20Repeating%20Characters)
 
+[0062-Minimum Size Subarray Sum](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0062-Minimum%20Size%20Subarray%20Sum)
+
