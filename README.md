@@ -158,3 +158,5 @@
 
 [0063-Permutation in String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0063-Permutation%20in%20String)
 
+[0064-Fruit Into Baskets](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0064-Fruit%20Into%20Baskets)
+
