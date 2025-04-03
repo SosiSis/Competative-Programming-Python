@@ -161,3 +161,13 @@
 [0064-Fruit Into Baskets](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0064-Fruit%20Into%20Baskets)
 
 ### Stack , Queue and Monotocity Problems
+
+[0065-Valid Parentheses](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0065-Valid%20Parentheses)
+
+[0066-Next Greater Element I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0066-Next%20Greater20Element%20I)
+
+[0067-Simplify Path](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0067-Simplify%20Path)
+
+[0068-Number of Recent Calls](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0068-Number%20of%20Recent%20Calls)
+
+[0069-Find Consecutive Integers from a Data Stream](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0069-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream)
