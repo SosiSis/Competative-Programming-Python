@@ -68,7 +68,7 @@
 [0058-Optimal Partition of String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0058-Optimal%20Partition%20of%20String)
 
 
-### Sorting
+### Sorting Problems
 
 [0028-Sort the People](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0028-Sort%20the%20People)
 
@@ -92,7 +92,7 @@
 
 
 
-### Numerals
+### Numerals Problems
 
 [0038-Find Greatest Common Divisor of Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0038-Find%20Greatest%20Common%20Divisor%20of%20Array)
 
@@ -108,7 +108,7 @@
 
 
 
-### Two pointers
+### Two pointers Problems
 
 [0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
 
@@ -128,7 +128,7 @@
 
 
 
-### Recursion
+### Recursion Problems
 
 [0050-Power of Four](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0050-Power%20of%20Four)
 
@@ -140,13 +140,13 @@
 
 [0056-Decode String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0056-Decode%20String)
 
-### Linked List
+### Linked List Problems
 
 [0054-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0054-Remove%20Duplicates%20from%20Sorted%20List)
 
 [0055-Reverse Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0055-Reverse%20Linked%20List)
 
-### Sliding window
+### Sliding window Problems
 
 [0059-Maximum Average Subarray I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0059-Maximum%20Average%20Subarray%20I)
 
@@ -160,3 +160,14 @@
 
 [0064-Fruit Into Baskets](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0064-Fruit%20Into%20Baskets)
 
+### Stack , Queue and Monotocity Problems
+
+[0065-Valid Parentheses](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0065-Valid%20Parentheses)
+
+[0066-Next Greater Element I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0066-Next%20Greater20Element%20I)
+
+[0067-Simplify Path](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0067-Simplify%20Path)
+
+[0068-Number of Recent Calls](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0068-Number%20of%20Recent%20Calls)
+
+[0069-Find Consecutive Integers from a Data Stream](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0069-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream)
