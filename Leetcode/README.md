@@ -146,6 +146,13 @@
 
 [0055-Reverse Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0055-Reverse%20Linked%20List)
 
+[0072-Remove Nth Node From End of List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0072-Remove%20Nth%20Node%20From%20End%20of%20List)
+
+[0073-Middle of the Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0073-Middle%20of%20the%20Linked%20List)
+
+
+
+
 ### Sliding window Problems
 
 [0059-Maximum Average Subarray I](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0059-Maximum%20Average%20Subarray%20I)
@@ -171,3 +178,7 @@
 [0068-Number of Recent Calls](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0068-Number%20of%20Recent%20Calls)
 
 [0069-Find Consecutive Integers from a Data Stream](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0069-Find%20Consecutive%20Integers%20from%20a%20Data%20Stream)
+
+[0070-Sliding Window Maximum](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0070-Sliding%20Window%20Maximum)
+
+[0071-132 Pattern](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0071-132%20Pattern)
