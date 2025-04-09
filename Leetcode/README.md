@@ -150,7 +150,7 @@
 
 [0073-Middle of the Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0073-Middle%20of%20the%20Linked%20List)
 
-
+[0074-Linked List Cycle](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0074-Linked%20List%20Cycle)
 
 
 ### Sliding window Problems
