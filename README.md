@@ -154,6 +154,8 @@
 
 [0075-Partition List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0075-Partition%20List)
 
+[0076-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0076-Remove%20Duplicates%20from%20Sorted%20List)
+
 
 
 ### Sliding window Problems
