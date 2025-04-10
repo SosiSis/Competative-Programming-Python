@@ -152,6 +152,9 @@
 
 [0074-Linked List Cycle](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0074-Linked%20List%20Cycle)
 
+[0075-Partition List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0075-Partition%20List)
+
+
 
 ### Sliding window Problems
 
