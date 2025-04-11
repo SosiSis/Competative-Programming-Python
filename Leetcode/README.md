@@ -156,6 +156,7 @@
 
 [0076-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0076-Remove%20Duplicates%20from%20Sorted%20List)
 
+[0077-Palindrome%20Linked%20List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0077-Palindrome%20Linked%20List)
 
 
 ### Sliding window Problems
