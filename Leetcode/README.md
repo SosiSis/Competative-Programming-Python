@@ -105,9 +105,6 @@
 [0042-Number of Subarrays With GCD Equal to K](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0042-Number%20of%20Subarrays%20With%20GCD%20Equal%20to%20K)
 
 
-
-
-
 ### Two pointers Problems
 
 [0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
