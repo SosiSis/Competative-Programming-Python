@@ -2,6 +2,7 @@
 
 
 ### Binary Search Problems
+
 [0001-Binary Search](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0001-Binary%20Search)
 
 [0002-First Bad Version](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0002-First%20Bad%20Version)
@@ -13,6 +14,7 @@
 [0005-Search a 2D Matrix](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0005-Search%20a%202D%20Matrix)
 
 ### Arrays and Srings Problems
+
 [0006-Find Closest Number to Zero](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0006-Find%20Closest%20Number%20to%20Zero)
 
 [0007-Merge Strings Alternately](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0007-Merge%20Strings%20Alternately)
@@ -105,9 +107,6 @@
 [0042-Number of Subarrays With GCD Equal to K](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0042-Number%20of%20Subarrays%20With%20GCD%20Equal%20to%20K)
 
 
-
-
-
 ### Two pointers Problems
 
 [0015-Merge Sorted Array](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0015-Merge%20Sorted%20Array)
@@ -157,6 +156,8 @@
 [0076-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0076-Remove%20Duplicates%20from%20Sorted%20List)
 
 [0077-Palindrome%20Linked%20List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0077-Palindrome%20Linked%20List)
+
+[0078-Merge Two Sorted Lists](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0078-Merge%20Two%20Sorted%20Lists)
 
 
 ### Sliding window Problems

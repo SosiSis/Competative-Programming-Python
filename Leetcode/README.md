@@ -157,6 +157,8 @@
 
 [0077-Palindrome%20Linked%20List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0077-Palindrome%20Linked%20List)
 
+[0078-Merge Two Sorted Lists](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0078-Merge%20Two%20Sorted%20Lists)
+
 
 ### Sliding window Problems
 
