@@ -161,7 +161,9 @@
 
 [0079-Delete Node in a Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0079-Delete%20Node%20in%20a%20Linked%20List)
 
+[0080-Copy List with Random Pointer](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0080-Copy%20List%20with%20Random%20Pointer)
 
+Copy List with Random Pointer
 
 ### Sliding window Problems
 
