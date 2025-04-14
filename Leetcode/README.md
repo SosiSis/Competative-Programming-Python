@@ -159,6 +159,9 @@
 
 [0078-Merge Two Sorted Lists](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0078-Merge%20Two%20Sorted%20Lists)
 
+[0079-Delete Node in a Linked List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0079-Delete%20Node%20in%20a%20Linked%20List)
+
+
 
 ### Sliding window Problems
 
