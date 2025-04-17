@@ -139,6 +139,9 @@
 
 [0056-Decode String](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0056-Decode%20String)
 
+[0082-Subsets](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0082-Subsets)
+
+
 ### Linked List Problems
 
 [0054-Remove Duplicates from Sorted List](https://github.com/SosiSis/Competative-Programming-Python/tree/main/Leetcode/0054-Remove%20Duplicates%20from%20Sorted%20List)
